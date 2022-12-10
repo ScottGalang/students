@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6354d88a0b6a9f834b839b89"
+  },
+  "studentId": "20-1382-910",
+  "firstName": "Scott",
+  "lastName": "Galang",
+  "birthdate": "2002-09-29",
+  "address": "CSFP",
+  "program": "BSIT",
+  "contactNumber": "09319320123",
+  "emergencyContact": "Mother Galang"
+},{
+  "_id": {
+    "$oid": "63942cbf1e204925ce30cb0d"
+  },
+  "studentId": "21-1382-910",
+  "firstName": "Kevin",
+  "lastName": "Durant",
+  "birthdate": "2001-09-29",
+  "address": "AC",
+  "program": "BSIT",
+  "contactNumber": "09519320123",
+  "emergencyContact": "Mother Durant"
+},{
+  "_id": {
+    "$oid": "63942ce91e204925ce30cb0e"
+  },
+  "studentId": "27-1382-910",
+  "firstName": "Kyrie",
+  "lastName": "Irving",
+  "birthdate": "2006-09-29",
+  "address": "CSFP",
+  "program": "BSIT",
+  "contactNumber": "09919320123",
+  "emergencyContact": "Father Irving"
+},{
+  "_id": {
+    "$oid": "63942d141e204925ce30cb0f"
+  },
+  "studentId": "45-1382-910",
+  "firstName": "Lebron",
+  "lastName": "James",
+  "birthdate": "2014-09-29",
+  "address": "AC",
+  "program": "BSIT",
+  "contactNumber": "09119320123",
+  "emergencyContact": "Father James"
+},{
+  "_id": {
+    "$oid": "63942d511e204925ce30cb10"
+  },
+  "studentId": "30-1382-910",
+  "firstName": "Stephen",
+  "lastName": "Curry",
+  "birthdate": "2000-09-29",
+  "address": "CSFP",
+  "program": "BSIT",
+  "contactNumber": "09321320123",
+  "emergencyContact": "Mother Curry"
+},{
+  "_id": {
+    "$oid": "63942d7a1e204925ce30cb11"
+  },
+  "studentId": "77-1382-910",
+  "firstName": "Luka",
+  "lastName": "Doncic",
+  "birthdate": "2009-09-29",
+  "address": "AC",
+  "program": "BSIT",
+  "contactNumber": "09661320123",
+  "emergencyContact": "Mother Doncic"
+},{
+  "_id": {
+    "$oid": "63942da01e204925ce30cb12"
+  },
+  "studentId": "23-1382-910",
+  "firstName": "Michael",
+  "lastName": "Jordan",
+  "birthdate": "2019-09-29",
+  "address": "CSFP",
+  "program": "BSIT",
+  "contactNumber": "09971320123",
+  "emergencyContact": "Father Jordan"
+},{
+  "_id": {
+    "$oid": "63942dc81e204925ce30cb13"
+  },
+  "studentId": "33-1382-910",
+  "firstName": "Larry",
+  "lastName": "Bird",
+  "birthdate": "2022-09-29",
+  "address": "AC",
+  "program": "BSIT",
+  "contactNumber": "09541320123",
+  "emergencyContact": "Father Bird"
+},{
+  "_id": {
+    "$oid": "63942df11e204925ce30cb14"
+  },
+  "studentId": "00-1382-910",
+  "firstName": "Magic",
+  "lastName": "Johnson",
+  "birthdate": "2005-09-29",
+  "address": "CSFP",
+  "program": "BSIT",
+  "contactNumber": "09456320123",
+  "emergencyContact": "Mother Johnson"
+},{
+  "_id": {
+    "$oid": "63942e161e204925ce30cb15"
+  },
+  "studentId": "24-1382-910",
+  "firstName": "Kobe",
+  "lastName": "Bryant",
+  "birthdate": "2008-09-29",
+  "address": "AC",
+  "program": "BSIT",
+  "contactNumber": "09236320123",
+  "emergencyContact": "Father Bryant"
+}]
